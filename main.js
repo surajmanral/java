@@ -11,4 +11,4 @@ http.createServer(function (request, response) {
 }).listen(8081);
 
 // Console will print the message
-console.log('Server running at http://3.109.1.3/');
+console.log('Hello World');
